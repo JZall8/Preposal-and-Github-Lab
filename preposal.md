@@ -3,7 +3,7 @@
 ## What idea(s) do you have for your final project?
 
 TODO
-Make changes to the mario or ping tracks and remake a new came out of it or make a unique break blocks game.
+Make changes to the mario or ping tracks and remake a new game out of it or make a unique break blocks game.
 Make a website.
 Make a new or different among us.
 Take the pig dice game and make some changes to it or use monte carlo in a unique way. 
